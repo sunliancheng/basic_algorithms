@@ -3,8 +3,8 @@ In this repository, I will choose some classical algorithms and implement them b
 
 ## Sort Algorithms
 
-### PriorityQueue & Heap sort
-[cpp和java源代码戳这里](https://github.com/sunliancheng/basic_algorithms/tree/master/Heap&PriorityQueue)
+### PriorityQueue & HeapSort
+[PriorityQueue & HeapSort binary code](https://github.com/sunliancheng/basic_algorithms/tree/master/Heap&PriorityQueue)
 
 ### SelectSort
 [SelectSort binary code](https://github.com/sunliancheng/basic_algorithms/tree/master/SelectSort)

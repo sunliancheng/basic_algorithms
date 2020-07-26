@@ -1,6 +1,6 @@
 #include <climits>
 //
-// Created by 王思敏 on 2020/7/25.
+// Created on 2020/7/25.
 //
 #include <iostream>
 #include <vector>
